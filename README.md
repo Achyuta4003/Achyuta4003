@@ -1,4 +1,6 @@
-[![MasterHead](https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif)]
+
+<!-- <img src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" alt="coading" align="center" width="800"> -->
+![MasterHead](https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif)
 <h1 align="center">Hi 👋, I'm Achyuta Pradhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coading" align="right" width="400"  >
@@ -13,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/achyuta-pradhan-1711251a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achyuta-pradhan-1711251a0" height="30" width="40" /></a>
-<a href="https://instagram.com/aachyuta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aachyuta" height="30" width="40" /></a>
+<a href="https://instagram.com/achyutaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aachyuta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
